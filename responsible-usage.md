@@ -11,7 +11,7 @@ Many of these resources are provided free to students to support learning and pe
 
 ## Commercial Use Restrictions
 
-### ⚠️ Do NOT Use for Commercial Purposes
+### Do NOT Use for Commercial Purposes
 
 Many student tools explicitly prohibit commercial use. **Do not use these tools for:**
 
@@ -20,7 +20,7 @@ Many student tools explicitly prohibit commercial use. **Do not use these tools 
 - Commercial product development intended for sale
 - Any revenue-generating activities
 
-### ✅ Acceptable Uses
+### Acceptable Uses
 
 These tools are generally acceptable for:
 
@@ -63,7 +63,7 @@ Many services offer free tiers that allow commercial use:
 3. **Be Transparent** - Don't try to hide commercial use under student accounts
 4. **Support the Ecosystem** - Consider paying for tools when you can afford it
 
-## Questions?
+
 
 If you're unsure whether your use case is appropriate, check the specific tool's terms of service or contact their support team.
 
